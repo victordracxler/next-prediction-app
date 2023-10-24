@@ -48,5 +48,6 @@ const StyledForm = styled.form`
 
   input {
     height: 35px;
+    border-radius: 5px;
   }
 `;
